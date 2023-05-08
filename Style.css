@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+
+
+.Week{
+    letter-spacing:3px;
+    color: gold;
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    text-shadow: 6px -2px 7px #ffd70080;
+    font-size: 3rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+input{
+    width: 90%;
+    height: 40px;
+}
+
+button{
+    width: 30px;
+    height: 40px;
+    color: white;
+    background-color: deepskyblue;
+    border: 1px;
+}
+
